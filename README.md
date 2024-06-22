@@ -29,7 +29,7 @@
 
 
 ## Challenge
-- Check out the full challenge, [click here](./problem.md).
+- Check out the full challenge, [click here](./PROBLEM.md).
 
 ## Installation
 
