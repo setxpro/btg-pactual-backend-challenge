@@ -36,7 +36,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bagaggio-II/logistic-gateway.git
+https://github.com/setxpro/btg-pactual-backend-challenge.git
 ```
 
 2. Install dependencies with Maven
